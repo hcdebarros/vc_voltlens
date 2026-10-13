@@ -1,0 +1,5 @@
+,cpu_ms_per_image
+smallcnn,2.422
+alexnet,9.944
+vgg16_bn,40.515
+resnet18,9.36

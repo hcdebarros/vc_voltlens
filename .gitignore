@@ -1,0 +1,16 @@
+# Dataset (CC BY-NC-ND 4.0), recortes gerados e checkpoints não são versionados
+data/
+digits/
+checkpoints/
+*.pt
+*.pth
+kaggle.json
+.kaggle/
+
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Log de execução local
+run.log
